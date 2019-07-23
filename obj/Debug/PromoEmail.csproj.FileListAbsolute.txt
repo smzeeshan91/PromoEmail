@@ -1,0 +1,17 @@
+c:\users\syed m zeeshan\documents\visual studio 2013\Projects\PromoEmail\PromoEmail\bin\Debug\PromoEmail.exe.config
+c:\users\syed m zeeshan\documents\visual studio 2013\Projects\PromoEmail\PromoEmail\bin\Debug\PromoEmail.exe
+c:\users\syed m zeeshan\documents\visual studio 2013\Projects\PromoEmail\PromoEmail\bin\Debug\PromoEmail.pdb
+c:\users\syed m zeeshan\documents\visual studio 2013\Projects\PromoEmail\PromoEmail\obj\Debug\PromoEmail.exe
+c:\users\syed m zeeshan\documents\visual studio 2013\Projects\PromoEmail\PromoEmail\obj\Debug\PromoEmail.pdb
+D:\Advance Development\Projects\PromoEmail\PromoEmail\bin\Debug\PromoEmail.exe.config
+D:\Advance Development\Projects\PromoEmail\PromoEmail\obj\Debug\PromoEmail.exe
+D:\Advance Development\Projects\PromoEmail\PromoEmail\obj\Debug\PromoEmail.pdb
+D:\Advance Development\Projects\PromoEmail\PromoEmail\bin\Debug\PromoEmail.exe
+D:\Advance Development\Projects\PromoEmail\PromoEmail\bin\Debug\PromoEmail.pdb
+F:\Software Development\.NET Projects\Promotion Email\PromoEmail v1.2\PromoEmail\bin\Debug\PromoEmail.exe.config
+F:\Software Development\.NET Projects\Promotion Email\PromoEmail v1.2\PromoEmail\bin\Debug\PromoEmail.exe
+F:\Software Development\.NET Projects\Promotion Email\PromoEmail v1.2\PromoEmail\bin\Debug\PromoEmail.pdb
+F:\Software Development\.NET Projects\Promotion Email\PromoEmail v1.2\PromoEmail\obj\Debug\PromoEmail.csprojAssemblyReference.cache
+F:\Software Development\.NET Projects\Promotion Email\PromoEmail v1.2\PromoEmail\obj\Debug\PromoEmail.csproj.CoreCompileInputs.cache
+F:\Software Development\.NET Projects\Promotion Email\PromoEmail v1.2\PromoEmail\obj\Debug\PromoEmail.exe
+F:\Software Development\.NET Projects\Promotion Email\PromoEmail v1.2\PromoEmail\obj\Debug\PromoEmail.pdb

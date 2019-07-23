@@ -1,0 +1,11 @@
+c:\users\syed m zeeshan\documents\visual studio 2013\Projects\PromoEmail\PromoEmail\bin\Release\PromoEmail.exe.config
+c:\users\syed m zeeshan\documents\visual studio 2013\Projects\PromoEmail\PromoEmail\bin\Release\PromoEmail.exe
+c:\users\syed m zeeshan\documents\visual studio 2013\Projects\PromoEmail\PromoEmail\bin\Release\PromoEmail.pdb
+c:\users\syed m zeeshan\documents\visual studio 2013\Projects\PromoEmail\PromoEmail\obj\Release\PromoEmail.exe
+c:\users\syed m zeeshan\documents\visual studio 2013\Projects\PromoEmail\PromoEmail\obj\Release\PromoEmail.pdb
+D:\Advance Development\Projects\PromoEmail\PromoEmail\bin\Release\PromoEmail.exe.config
+D:\Advance Development\Projects\PromoEmail\PromoEmail\obj\Release\PromoEmail.exe
+D:\Advance Development\Projects\PromoEmail\PromoEmail\obj\Release\PromoEmail.pdb
+D:\Advance Development\Projects\PromoEmail\PromoEmail\bin\Release\PromoEmail.exe
+D:\Advance Development\Projects\PromoEmail\PromoEmail\bin\Release\PromoEmail.pdb
+D:\Advance Development\Projects\PromoEmail\PromoEmail\obj\Release\PromoEmail.csprojResolveAssemblyReference.cache
